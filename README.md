@@ -14,7 +14,7 @@ The method falls into three parts:
 
 	ii) Unfortunately, the Twitter API does not expose Lists. As a workaround, the notebook demonstrates how you can scrape an online service that indexes Lists.
 
-3) Commbining (1) and (2), calculate the topical authority of those users and rank them.
+3) Combining (1) and (2), calculate the topical authority of those users and rank them.
 
 	i) The Lists are weighted relative to each other based on the idea that a List is more valuable if it has a high number of subscribers (implicit community approval) and few members (implicitly more highly curated).
 
